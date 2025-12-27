@@ -1,2 +1,3 @@
 # hs-completion-analysis
-Reproducible research project investigating discrepancies between reported and actual U.S. high school completion rates
+
+To investigate the statistical discrepancies between reported and actual high school completion rates in the United States, focusing on methodological and systemic factors.
